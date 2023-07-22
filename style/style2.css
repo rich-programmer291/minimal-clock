@@ -1,0 +1,41 @@
+body{
+    
+    margin: none;
+    padding: none;
+    font-family: 'Oswald',sans-serif;
+}
+
+/*TOP DESIGN*/
+#top{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.clock{
+    font-size: 250px;
+    padding-top: 5%;
+}
+
+.date{
+    font-size: 40px;
+    padding-bottom: 5%;
+}
+
+.dark{
+    color: white;
+    background-color: black;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
+
+.btn{
+    height: 50px;
+    width: 50px;
+    border: 1px black;
+    border-radius: 50%;
+    float:right;
+    padding: 10px 10px;
+}
